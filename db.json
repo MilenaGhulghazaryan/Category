@@ -1,0 +1,180 @@
+{
+  "genders": [
+    {
+      "id": 1,
+      "title": "Female"
+    },
+    {
+      "id": 2,
+      "title": "Male"
+    },
+    {
+      "id": 3,
+      "title": "Children"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "vznocner",
+      "parentId": 1,
+      "image": "/images/img1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "tevnocner",
+      "parentId": 1,
+      "image": "https://i.pinimg.com/564x/01/f0/94/01f094b0929165a33c716433f71761ee.jpg"
+    },
+    {
+      "id": 3,
+      "title": "tevnocner",
+      "parentId": 1,
+      "image": "https://i.pinimg.com/564x/a3/21/35/a32135c7a1aea839c4ebb4e2c45b302d.jpg"
+    },
+    {
+      "id": 4,
+      "title": "tevnocner",
+      "parentId": 1,
+      "image": "https://i.pinimg.com/564x/1a/84/76/1a8476dfb882241732149521030eff34.jpg"
+    },
+    {
+      "id": 5,
+      "title": "tevnocner",
+      "parentId": 1,
+      "image": "https://i.pinimg.com/564x/cc/31/0d/cc310d5a7dbe4cdff6f458c3ab56b62b.jpg"
+    },
+    {
+      "id": 6,
+      "title": "tevnocner",
+      "parentId": 1,
+      "image": "https://i.pinimg.com/564x/c9/69/5b/c9695b9c7a83e54998776a4080880fda.jpg"
+    },
+    {
+      "id": 7,
+      "title": "tevnocner",
+      "parentId": 1,
+      "image": "https://i.pinimg.com/736x/84/09/f5/8409f5e0efeeef9a3a147dea69ac091c.jpg"
+    },
+    {
+      "id": 8,
+      "title": "tevnocner",
+      "parentId": 1,
+      "image": "https://i.pinimg.com/564x/da/ab/6b/daab6b25f3fce30764b1370e0d492309.jpg"
+    },
+    {
+      "id": 9,
+      "title": "tevnocner",
+      "parentId": 1,
+      "image": "https://i.pinimg.com/564x/b2/29/7d/b2297dc5b9edff4465906f80a0e50e08.jpg"
+    },
+    {
+      "id": 10,
+      "title": "xacher",
+      "parentId": 2,
+      "image": "https://i.pinimg.com/564x/ed/41/b7/ed41b70ba9777289eed3e8f4acb51db7.jpg"
+    },
+    {
+      "id": 11,
+      "title": "jamacuyc",
+      "parentId": 2,
+      "image": "https://i.pinimg.com/564x/ee/35/46/ee35465f15610bb77989f5284a53c045.jpg"
+    },
+    {
+      "id": 12,
+      "title": "jamacuyc",
+      "parentId": 2,
+      "image": "https://i.pinimg.com/564x/0f/4a/8a/0f4a8a642135d5dde170ed8943dd83c4.jpg"
+    },
+    {
+      "id": 13,
+      "title": "jamacuyc",
+      "parentId": 2,
+      "image": "https://i.pinimg.com/564x/9d/26/d0/9d26d0cea42e31d42366c452f2826380.jpg"
+    },
+    {
+      "id": 14,
+      "title": "jamacuyc",
+      "parentId": 2,
+      "image": "https://i.pinimg.com/564x/9b/56/e5/9b56e5a294070adeed7c4d9020dd8b94.jpg"
+    },
+    {
+      "id": 15,
+      "title": "jamacuyc",
+      "parentId": 2,
+      "image": "https://i.pinimg.com/564x/d8/f5/5b/d8f55b501b70056af85d8ff4faa000ec.jpg"
+    },
+    {
+      "id": 16,
+      "title": "jamacuyc",
+      "parentId": 2,
+      "image": "https://i.pinimg.com/564x/70/13/26/7013268f87cf39e434024241506c1c25.jpg"
+    },
+    {
+      "id": 17,
+      "title": "jamacuyc",
+      "parentId": 2,
+      "image": "https://i.pinimg.com/564x/b7/78/8f/b7788f018010bcfd046cf844587ca389.jpg"
+    },
+    {
+      "id": 18,
+      "title": "jamacuyc",
+      "parentId": 2,
+      "image": "https://i.pinimg.com/564x/3d/a9/7d/3da97dd7847d7b45e0b8b04e74db4951.jpg"
+    },
+    {
+      "id": 19,
+      "title": "xaxaliqner",
+      "parentId": 3,
+      "image": "https://i.pinimg.com/564x/bc/a3/a0/bca3a035f2b5ffaba895985566ebfeb3.jpg"
+    },
+    {
+      "id": 20,
+      "title": "xaxaliqner",
+      "parentId": 3,
+      "image": "https://i.pinimg.com/564x/88/a2/24/88a224f681da7c54885bb3e36e05400b.jpg"
+    },
+    {
+      "id": 21,
+      "title": "xaxaliqner",
+      "parentId": 3,
+      "image": "https://i.pinimg.com/564x/1e/04/ae/1e04aed336cf0a3ed46682e5c086dbe4.jpg"
+    },
+    {
+      "id": 22,
+      "title": "xaxaliqner",
+      "parentId": 3,
+      "image": "https://i.pinimg.com/564x/e7/18/ca/e718ca76109d0d26f8f6e0a1c04580ba.jpg"
+    },
+    {
+      "id": 23,
+      "title": "xaxaliqner",
+      "parentId": 3,
+      "image": "https://i.pinimg.com/564x/27/4a/2c/274a2c123e7a4194d99b55e6b4b1b524.jpg"
+    },
+    {
+      "id": 24,
+      "title": "xaxaliqner",
+      "parentId": 3,
+      "image": "https://i.pinimg.com/564x/6f/26/a9/6f26a9c75b9f081cd10de50cee50aad5.jpg"
+    },
+    {
+      "id": 25,
+      "title": "xaxaliqner",
+      "parentId": 3,
+      "image": "https://i.pinimg.com/564x/79/1c/23/791c23686e6c3a1ef2cc1c428209a254.jpg"
+    },
+    {
+      "id": 26,
+      "title": "xaxaliqner",
+      "parentId": 3,
+      "image": "https://i.pinimg.com/564x/65/09/76/650976fd2ba3c7335c0f579ec42b54d2.jpg"
+    },
+    {
+      "id": 27,
+      "title": "xaxaliqner",
+      "parentId": 3,
+      "image": "https://i.pinimg.com/736x/f6/90/b4/f690b43e0d61295882469e3d43c29346.jpg"
+    }
+  ]
+}
